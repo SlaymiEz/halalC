@@ -1,0 +1,1 @@
+/usr/sbin/c++ -O2 -g -DNDEBUG CMakeFiles/halal.dir/src/main.cpp.o -o halal

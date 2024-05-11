@@ -1,0 +1,3 @@
+/home/slaymi/dev/halalC/cmake-build-relwithdebinfo-wsl/CMakeFiles/halal.dir
+/home/slaymi/dev/halalC/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
+/home/slaymi/dev/halalC/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir
