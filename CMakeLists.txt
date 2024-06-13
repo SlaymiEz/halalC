@@ -4,5 +4,4 @@ project(halalC)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(halal src/main.cpp
-)
+add_executable(halal src/main.cpp)
